@@ -1,0 +1,14 @@
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.json
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.dev.json
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cache
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cs
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorTargetAssemblyInfo.cache
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.pdb

@@ -1,0 +1,9 @@
+C:\sistema\sistemaddd\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\sistema\sistemaddd\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\sistema\sistemaddd\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\sistema\sistemaddd\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\sistema\sistemaddd\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\sistema\sistemaddd\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\sistema\sistemaddd\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\sistema\sistemaddd\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\sistema\sistemaddd\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.pdb

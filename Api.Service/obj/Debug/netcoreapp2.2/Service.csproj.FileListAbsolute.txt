@@ -1,0 +1,8 @@
+C:\sistema\sistemaddd\src\Api.Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\sistema\sistemaddd\src\Api.Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\sistema\sistemaddd\src\Api.Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
