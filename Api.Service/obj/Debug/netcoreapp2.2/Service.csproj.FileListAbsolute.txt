@@ -6,3 +6,4 @@ C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyIn
 C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
 C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
 C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
