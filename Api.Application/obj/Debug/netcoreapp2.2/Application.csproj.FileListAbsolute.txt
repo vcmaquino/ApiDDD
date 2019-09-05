@@ -12,3 +12,12 @@ C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.As
 C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorTargetAssemblyInfo.cache
 C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.dll
 C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Data.dll
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Domain.dll
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Service.dll
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Service.pdb
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\sistema\sistemaddd\src\Api.Application\bin\Debug\netcoreapp2.2\Data.pdb
+C:\sistema\sistemaddd\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
