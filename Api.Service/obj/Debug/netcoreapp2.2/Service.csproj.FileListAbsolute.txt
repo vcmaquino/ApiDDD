@@ -7,3 +7,8 @@ C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyIn
 C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
 C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
 C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\sistema\sistemaddd\src\Api.Service\bin\Debug\netcoreapp2.2\Data.dll
+C:\sistema\sistemaddd\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\sistema\sistemaddd\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\sistema\sistemaddd\src\Api.Service\bin\Debug\netcoreapp2.2\Data.pdb
+C:\sistema\sistemaddd\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
