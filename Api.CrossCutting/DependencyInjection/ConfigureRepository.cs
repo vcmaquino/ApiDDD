@@ -1,6 +1,8 @@
 using Api.Data.Context;
+using Api.Data.Implementations;
 using Api.Data.Repository;
 using Api.Domain.Interfaces;
+using Api.Domain.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -12,6 +14,7 @@ namespace Api.CrossCutting.DependencyInjection
         {
             //nivel de aplicação não servidor
             serviceCollection.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
+            serviceCollection.AddScoped<IUserRepository, UserImplementation>(); //Domain com data
 
             // serviceCollection.AddDbContext<MyContext>(
             //                options => options.UseMySql("Server=localhost:3306;Port=3306;Database=dbapi;Uid=root;pwd=1234")
